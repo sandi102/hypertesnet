@@ -1,6 +1,6 @@
 {
   "name": "hypertesnet",
-  "version": "1.4.0",
+  "version": "1.4.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
